@@ -7,7 +7,7 @@ O calculo do Salario Liquido e:
 Salario base - 13% de INSS + 5% se possuir cargo de chefia.
 Cada funcionario recebe um bonus de 50 por filho at o limite de 3 filhos.
 Todos os vendedores recebem 3% do total de suas vendas.
-Alguns cargos possuem um acrescimo de 3% de Insalubridade. 
+Alguns cargos (Segurança e Professor) possuem um acrescimo de 3% de Insalubridade. *Método*
 O adicional noturno dobra a hora do Funcionario
 A empresa paga 500 por quinquenio
 
@@ -19,6 +19,8 @@ Imprima o quanto a empresa gasta com quinquenio
 
 Passos para resoluçao OO
 
-1°) Agrupar as informaçoes
-2°) Identificar as informaçoes, atributos
-3°) Identificar os calculos
+1°) Agrupar as informações;
+*Empresa e Funcionário*
+2°) Identificar as informações e atributos;
+Funcionário tem (Nome,Idade,qtdFilhos,TempoDeCasa);
+3°) Identificar os calculos;
